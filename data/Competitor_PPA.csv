@@ -1,0 +1,49 @@
+Market,Brand,Pack Size,Avg_Retail_Price,Market_Share_%
+India,LocalBrandA,Small (20g),85.97,3.98
+India,LocalBrandA,Medium (50g),62.24,13.7
+India,LocalBrandA,Large (100g),15.42,16.01
+India,LocalBrandA,Multi-pack,36.99,21.57
+India,KettleCo,Small (20g),30.08,23.76
+India,KettleCo,Medium (50g),57.37,23.34
+India,KettleCo,Large (100g),58.83,10.07
+India,KettleCo,Multi-pack,79.93,13.68
+India,PrivateLabel,Small (20g),20.45,7.43
+India,PrivateLabel,Medium (50g),28.16,2.57
+India,PrivateLabel,Large (100g),74.21,15.86
+India,PrivateLabel,Multi-pack,40.09,5.1
+India,GlobalSnackCo,Small (20g),63.57,17.07
+India,GlobalSnackCo,Medium (50g),77.1,10.78
+India,GlobalSnackCo,Large (100g),28.48,6.83
+India,GlobalSnackCo,Multi-pack,50.68,18.21
+Thailand,LocalBrandA,Small (20g),46.3,18.41
+Thailand,LocalBrandA,Medium (50g),59.91,6.13
+Thailand,LocalBrandA,Large (100g),41.31,19.68
+Thailand,LocalBrandA,Multi-pack,21.98,21.96
+Thailand,KettleCo,Small (20g),84.87,8.0
+Thailand,KettleCo,Medium (50g),98.49,10.36
+Thailand,KettleCo,Large (100g),45.15,19.01
+Thailand,KettleCo,Multi-pack,79.4,21.79
+Thailand,PrivateLabel,Small (20g),18.6,10.68
+Thailand,PrivateLabel,Medium (50g),34.47,17.22
+Thailand,PrivateLabel,Large (100g),43.89,17.4
+Thailand,PrivateLabel,Multi-pack,39.98,24.02
+Thailand,GlobalSnackCo,Small (20g),92.47,1.56
+Thailand,GlobalSnackCo,Medium (50g),22.19,10.05
+Thailand,GlobalSnackCo,Large (100g),49.95,7.71
+Thailand,GlobalSnackCo,Multi-pack,39.7,14.82
+Japan,LocalBrandA,Small (20g),84.25,13.13
+Japan,LocalBrandA,Medium (50g),93.03,19.53
+Japan,LocalBrandA,Large (100g),77.12,9.84
+Japan,LocalBrandA,Multi-pack,62.27,13.02
+Japan,KettleCo,Small (20g),30.17,24.58
+Japan,KettleCo,Medium (50g),43.18,24.34
+Japan,KettleCo,Large (100g),54.58,20.96
+Japan,KettleCo,Multi-pack,20.23,17.52
+Japan,PrivateLabel,Small (20g),18.19,17.48
+Japan,PrivateLabel,Medium (50g),19.89,21.47
+Japan,PrivateLabel,Large (100g),35.3,23.0
+Japan,PrivateLabel,Multi-pack,32.76,19.36
+Japan,GlobalSnackCo,Small (20g),45.18,20.88
+Japan,GlobalSnackCo,Medium (50g),36.91,8.56
+Japan,GlobalSnackCo,Large (100g),75.25,10.47
+Japan,GlobalSnackCo,Multi-pack,33.86,4.39
